@@ -39,8 +39,7 @@ $ anvil
 ```
 
 ### Deploy
-
-NOTE: make sure you have filled out your .env file
+NOTE: make sure you have filled out your .env file based on .env.sample
 
 ```shell
 $ make deploy
